@@ -1,0 +1,13 @@
+path: D:/IIITH-Internship/week 5/dataset  
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: ['Car']
+roboflow:
+  workspace: idgafs-workspace-rsmm3
+  project: my-first-project-ehvt2
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/idgafs-workspace-rsmm3/my-first-project-ehvt2/dataset/1
